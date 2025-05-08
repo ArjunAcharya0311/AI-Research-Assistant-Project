@@ -1,1 +1,1 @@
-# Text-Summarization-OpenAI
+# AI Research Assistant Project
